@@ -7,7 +7,7 @@ const LandingPage = () => {
     <div className="w-screen overflow-hidden">
       
       {/* Background Section */}
-      <div className="relative h-[90vh] w-full bg-cover bg-center bg-no-repeat">
+      <div className="relative h-[100vh] w-full bg-cover bg-center bg-no-repeat">
         
         {/* Background Video */}
         <video
